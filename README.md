@@ -1,1 +1,2 @@
 # NewRepository
+Ветка merge-commit
